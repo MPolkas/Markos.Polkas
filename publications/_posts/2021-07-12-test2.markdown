@@ -9,7 +9,7 @@ venue: "MNRAS"
 bib: @ARTICLE{2021MNRAS.505.6103P,
        author = {{Polkas}, M. and {Petropoulou}, M. and {Vasilopoulos}, G. and {Mastichiadis}, A. and {Urry}, C.~M. and {Coppi}, P. and {Bailyn}, C.},
         title = "{A numerical study of long-term multiwavelength blazar variability}",
-      journal = {\mnras},
+      journal = {mnras},
      keywords = {radiation mechanisms: non-thermal, radiative transfer, galaxies: active, gamma-rays: galaxies, Astrophysics - High Energy Astrophysical Phenomena},
          year = 2021,
         month = aug,
