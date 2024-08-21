@@ -1,8 +1,8 @@
 ---
 title:  "Demographics of Tidal Disruption Events with L-Galaxies: I. Volumetric TDE rates and the abundance of Nuclear Star Clusters"
 date:   2024-08-21 09:26:00 +00:00
-image: "/tn/publications/images/tde.jpg"
-image_onhover: "/tn/publications/images/pie.jpg"
+image: "/publications/images/tde.jpg"
+image_onhover: "/publications/images/pie.jpg"
 author: "Markos Polkas"
 authors: "<strong> Polkas, M. , Bonoli, S. , Bortolas, E. , Izquierdo-Villalba, D. , Sesana, A. , Broggi, L. , Hoyer, N. , Spinoso, D.</strong>"
 link: "https://ui.adsabs.harvard.edu/abs/2023arXiv231213242P/abstract"
