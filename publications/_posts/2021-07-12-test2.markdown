@@ -1,13 +1,12 @@
 ---
 title:  "A numerical study of long-term multiwavelength blazar variability"
 date:   2024-08-12 09:26:00 +00:00
-image: /publications/images/3c273.jpg
-image_onhover: /publications/images/pks_le.gif
+image: "/publications/images/3c273.jpg"
+image_onhover: "/publications/images/pks_le.gif"
 author: "Markos Polkas"
 authors: "<strong> Polkas, M. ; Petropoulou, M. ; Vasilopoulos, G. ; Mastichiadis, A. ; Urry, C. M. ; Coppi, P. ; Bailyn, C.</strong>"
 venue: "MNRAS"
 link: "https://ui.adsabs.harvard.edu/abs/2023arXiv231213242P/exportcitation"
 ---
-In this project, we study blazar variability in an FSRQ and a BL Lac with a variable one zone leptonic model.
-By solving the kinetic equations with a time-dependent input of parameters, that is motivated as to reproduce 10-year-long variability properties in gamma-rays, we study the
-multiwavelength behavior of the blob. This study is first of its kind and a follow-up on using the model for exceptional good quality data of Mrk421 is coming soon from collaborators and me.  
+In this project, we study blazar variability in an FSRQ and a BL Lac with a variable one-zone leptonic model.
+By solving the kinetic equations with a time-dependent input of parameters, with variations motivated to reproduce 10-year-long variability properties in gamma-rays as observed from Fermi-LAT, we study the multiwavelength behavior of the blob. This study is the first of its kind and a follow-up on using the model for exceptional good quality data of Mrk421 is coming soon from collaborators and me.  
