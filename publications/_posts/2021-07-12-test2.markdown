@@ -2,7 +2,7 @@
 title:  "A numerical study of long-term multiwavelength blazar variability"
 date:   2024-08-12 09:26:00 +00:00
 image: /publications/images/project_image.jpg
-image_onhover: /publications/images/project-image-on-hover.jpg
+image_onhover: /publications/images/pks_le.gif
 author: "Markos Polkas"
 authors: "<strong> Polkas, M. ; Petropoulou, M. ; Vasilopoulos, G. ; Mastichiadis, A. ; Urry, C. M. ; Coppi, P. ; Bailyn, C.</strong>"
 venue: "MNRAS"
