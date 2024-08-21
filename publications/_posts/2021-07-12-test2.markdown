@@ -6,23 +6,7 @@ image_onhover: /publications/images/project-image-on-hover.jpg
 author: "Markos Polkas"
 authors: "<strong> Polkas, M. ; Petropoulou, M. ; Vasilopoulos, G. ; Mastichiadis, A. ; Urry, C. M. ; Coppi, P. ; Bailyn, C.</strong>"
 venue: "MNRAS"
-bib: @ARTICLE{2021MNRAS.505.6103P,
-       author = {{Polkas}, M. and {Petropoulou}, M. and {Vasilopoulos}, G. and {Mastichiadis}, A. and {Urry}, C.~M. and {Coppi}, P. and {Bailyn}, C.},
-        title = "{A numerical study of long-term multiwavelength blazar variability}",
-      journal = {mnras},
-     keywords = {radiation mechanisms: non-thermal, radiative transfer, galaxies: active, gamma-rays: galaxies, Astrophysics - High Energy Astrophysical Phenomena},
-         year = 2021,
-        month = aug,
-       volume = {505},
-       number = {4},
-        pages = {6103-6120},
-          doi = {10.1093/mnras/stab1618},
-archivePrefix = {arXiv},
-       eprint = {2105.07030},
- primaryClass = {astro-ph.HE},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.6103P},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
+link: "https://ui.adsabs.harvard.edu/abs/2023arXiv231213242P/exportcitation"
 
 ---
 Brief description of another project.
