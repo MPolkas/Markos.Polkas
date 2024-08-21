@@ -6,8 +6,7 @@ image_onhover: /publications/images/project-image-on-hover.jpg
 author: "Markos Polkas"
 authors: "<strong> Polkas, M. search by orcid ; Petropoulou, M. search by orcid ; Vasilopoulos, G. search by orcid ; Mastichiadis, A. search by orcid ; Urry, C. M. search by orcid ; Coppi, P. search by orcid ; Bailyn, C.</strong>"
 venue: "Venue"
-bib: |
-@ARTICLE{2021MNRAS.505.6103P,
+bib: @ARTICLE{2021MNRAS.505.6103P,
        author = {{Polkas}, M. and {Petropoulou}, M. and {Vasilopoulos}, G. and {Mastichiadis}, A. and {Urry}, C.~M. and {Coppi}, P. and {Bailyn}, C.},
         title = "{A numerical study of long-term multiwavelength blazar variability}",
       journal = {\mnras},
