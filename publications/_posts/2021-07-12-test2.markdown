@@ -25,6 +25,6 @@ archivePrefix = {arXiv},
 }
 
 links:
-  code: [https://github.com/vsimkus/academic-jekyll](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.6103P/abstract)
+  code: https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.6103P/abstract
 ---
 Brief description of another project.
