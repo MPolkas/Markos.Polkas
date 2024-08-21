@@ -4,7 +4,7 @@ date:   2024-08-12 09:26:00 +00:00
 image: /publications/images/project-image.jpg
 image_onhover: /publications/images/project-image-on-hover.jpg
 author: "Markos Polkas"
-authors: "<strong> Polkas, M. search by orcid ; Petropoulou, M. search by orcid ; Vasilopoulos, G. search by orcid ; Mastichiadis, A. search by orcid ; Urry, C. M. search by orcid ; Coppi, P. search by orcid ; Bailyn, C.</strong>"
+authors: "<strong> Polkas, M. ; Petropoulou, M. ; Vasilopoulos, G. ; Mastichiadis, A. ; Urry, C. M. ; Coppi, P. ; Bailyn, C.</strong>"
 venue: "Venue"
 bib: @ARTICLE{2021MNRAS.505.6103P,
        author = {{Polkas}, M. and {Petropoulou}, M. and {Vasilopoulos}, G. and {Mastichiadis}, A. and {Urry}, C.~M. and {Coppi}, P. and {Bailyn}, C.},
