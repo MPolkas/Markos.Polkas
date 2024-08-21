@@ -1,19 +1,31 @@
 ---
-title:  "Another title of the publication"
-date:   2021-07-12 09:26:00 +00:00
+title:  "A numerical study of long-term multiwavelength blazar variability"
+date:   2024-08-12 09:26:00 +00:00
 image: /publications/images/project-image.jpg
 image_onhover: /publications/images/project-image-on-hover.jpg
-author: "John Doe"
-authors: "<strong>John Doe</strong>"
+author: "Markos Polkas"
+authors: "<strong> Polkas, M. search by orcid ; Petropoulou, M. search by orcid ; Vasilopoulos, G. search by orcid ; Mastichiadis, A. search by orcid ; Urry, C. M. search by orcid ; Coppi, P. search by orcid ; Bailyn, C.</strong>"
 venue: "Venue"
 bib: |
-  @article{Doe2021,
-    author = {Doe J.},
-    journal = {A journal of imaginary research},
-    title = {Another title of the publication},
-    year = {2021}
-  }
+@ARTICLE{2021MNRAS.505.6103P,
+       author = {{Polkas}, M. and {Petropoulou}, M. and {Vasilopoulos}, G. and {Mastichiadis}, A. and {Urry}, C.~M. and {Coppi}, P. and {Bailyn}, C.},
+        title = "{A numerical study of long-term multiwavelength blazar variability}",
+      journal = {\mnras},
+     keywords = {radiation mechanisms: non-thermal, radiative transfer, galaxies: active, gamma-rays: galaxies, Astrophysics - High Energy Astrophysical Phenomena},
+         year = 2021,
+        month = aug,
+       volume = {505},
+       number = {4},
+        pages = {6103-6120},
+          doi = {10.1093/mnras/stab1618},
+archivePrefix = {arXiv},
+       eprint = {2105.07030},
+ primaryClass = {astro-ph.HE},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.6103P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
 links:
-  code: https://github.com/vsimkus/academic-jekyll
+  code: [https://github.com/vsimkus/academic-jekyll](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.6103P/abstract)
 ---
 Brief description of another project.
