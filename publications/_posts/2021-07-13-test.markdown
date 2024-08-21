@@ -4,7 +4,7 @@ date:   2024-08-21 09:26:00 +00:00
 image: /publications/images/project_image.png
 image_onhover: /publications/images/project_image_hoveron.png
 author: "Markos Polkas"
-authors: "<strong> Polkas, M. ; Bonoli, S. ; Bortolas, E. ; Izquierdo-Villalba, D. ; Sesana, A. ; Broggi, L. ; Hoyer, N. ; Spinoso, D.</strong>"
+authors: "<strong> Polkas, M. , Bonoli, S. , Bortolas, E. , Izquierdo-Villalba, D. , Sesana, A. , Broggi, L. , Hoyer, N. , Spinoso, D.</strong>"
 link: "https://ui.adsabs.harvard.edu/abs/2023arXiv231213242P/abstract"
 ---
 Brief description of the project.
