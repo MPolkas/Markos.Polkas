@@ -24,7 +24,5 @@ archivePrefix = {arXiv},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
-links:
-  code: https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.6103P/abstract
 ---
 Brief description of another project.
