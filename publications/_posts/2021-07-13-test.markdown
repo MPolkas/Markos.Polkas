@@ -5,7 +5,7 @@ image: /publications/images/project-image.jpg
 image_onhover: /publications/images/project-image-on-hover.jpg
 author: "Markos Polkas"
 authors: "<strong> Polkas, M. ; Bonoli, S. ; Bortolas, E. ; Izquierdo-Villalba, D. ; Sesana, A. ; Broggi, L. ; Hoyer, N. ; Spinoso, D.</strong>"
-venue: "Venue"
+venue: "A&A"
 bib: |
 @ARTICLE{2023arXiv231213242P,
        author = {{Polkas}, M. and {Bonoli}, S. and {Bortolas}, E. and {Izquierdo-Villalba}, D. and {Sesana}, A. and {Broggi}, L. and {Hoyer}, N. and {Spinoso}, D.},
